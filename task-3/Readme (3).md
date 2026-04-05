@@ -9,4 +9,4 @@ Key activities :
 - Power BI interactive dashboard
 
 Repository link :
-https://github.com/Sasikumar-19/Task-3-DeepDiveAnalysis-Interactive-Dashboard/tree/main
+https://github.com/chaitanyakumarmaroju-cloud/task-3.git
