@@ -9,4 +9,4 @@ Key activities :
 - Initial exploratory analysis
 
 Repository Link :
-https://github.com/Sasikumar-19/Task1-Data-Wragling-sasi
+https://github.com/chaitanyakumarmaroju-cloud/desktop-tutorial.git
