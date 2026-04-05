@@ -9,4 +9,4 @@ Key Activities :
 - Data Visualization
 
 Repository Link :
-https://github.com/Sasikumar-19/Task2--EDA-BusinessIntelligence
+https://github.com/chaitanyakumarmaroju-cloud/task-2.git
